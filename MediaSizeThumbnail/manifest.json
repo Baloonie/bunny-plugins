@@ -1,0 +1,10 @@
+{
+  "name": "MediaSizeThumbnail",
+  "author": "Baloonie",
+  "version": "1.0.0",
+  "description": "Displays media size inside thumbnails in the attachment picker.",
+  "entry": "index.js",
+  "source": "https://github.com/Baloonie/bunny-plugins",
+  "website": "https://Baloonie.github.io/bunny-plugins/",
+  "updateUrl": "https://Baloonie.github.io/bunny-plugins/MediaSizeThumbnail/index.js"
+}
