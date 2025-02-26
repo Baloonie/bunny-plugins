@@ -1,0 +1,10 @@
+{
+  "name": "Media Size Thumbnail",
+  "description": "Displays media size inside thumbnails.",
+  "author": "Baloonie",
+  "version": "1.0.0",
+  "source": "https://github.com/Baloonie/bunny-plugins",
+  "update_url": "https://raw.githubusercontent.com/Baloonie/bunny-plugins/manifest.json",
+  "license": "MIT",
+  "main": "index.js"
+}
